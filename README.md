@@ -1,4 +1,10 @@
-# 👋 Hey There! I'm Uday!
+# Hey There! 👋
+I'm Uday (he/him) and I'm trying to become a full-stack developer.
+![Discord Status: ](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![Playing: ](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![Coding: ](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![Listening To: ](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
 
 ### Socials
 <a href="https://twitter.com/Uday_NA1">
@@ -21,3 +27,4 @@
 
 ### Statistics
 ![Github](https://github-readme-stats.vercel.app/api?username=Uday-NA1&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
