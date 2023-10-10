@@ -20,4 +20,4 @@
 - 🌱 I want to learn: TailwindCSS, Java, Rust, Ruby, Golang, C, C++, C#, Perl, Javascript, Node.JS, React.JS, Express.JS, PHP, MySQL, MongoDB, PostgreSQL, Oracle, Apache, Linux & Git
 
 ### Statistics
-[Udays's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-NA1&theme=dark&show_icons=true)
+![Github](https://github-readme-stats.vercel.app/api?username=Uday-NA1&theme=dark&show_icons=true)
