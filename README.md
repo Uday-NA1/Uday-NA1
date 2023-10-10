@@ -1,11 +1,9 @@
 # 👋 Hey There! I'm Uday!
+<img src="https://img.shields.io/badge/<Main>-<Python>-#008000.svg" />
 
 ### Socials
-<a href="https://twitter.com/schleidens_dev">
-<img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
-</a>
-<a>
-<img src="https://img.shields.io/badge/<Main>-<Python>-#008000.svg" />
+<a href="https://twitter.com/Uday_NA1">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://dev.to/uday-na1">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
