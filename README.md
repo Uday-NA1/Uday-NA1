@@ -1,5 +1,4 @@
 # 👋 Hey There! I'm Uday!
-<img src="https://img.shields.io/badge/<Main>-<Python>-#008000.svg" />
 
 ### Socials
 <a href="https://twitter.com/Uday_NA1">
