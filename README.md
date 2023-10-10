@@ -1,7 +1,5 @@
 # Hey There! 👋
 I'm Uday (he/him) and I'm trying to become a full-stack developer.
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1127288940219596870?simple=true)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1127288940219596870)
 
 ### Socials
 <a href="https://twitter.com/Uday_NA1">
