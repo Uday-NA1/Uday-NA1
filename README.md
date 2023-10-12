@@ -8,9 +8,6 @@ I'm Uday (he/him) and I'm trying to become a full-stack developer.
 <a href="https://dev.to/uday-na1">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
-<a href="https://discordapp.com/users/1127288940219596870">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
 ### About Me
 - 🔭 I'm currently learning: Python
